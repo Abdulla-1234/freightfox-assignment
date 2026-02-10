@@ -38,3 +38,8 @@ This is a Spring Boot application that solves the "Transporter Assignment on Lan
       "maxTransporters": 3
     }
     ```
+## Contact
+* **Name:** Doodakula Mohammad Abdulla
+* **Email:** mohammadabdulla20march@gmail.com
+* **Phone:** +91 9110418102
+* **Project Link:** [Insert your GitHub Link Here once created](https://www.linkedin.com/in/doodakula-mohammad-abdulla-8a3307258/)
